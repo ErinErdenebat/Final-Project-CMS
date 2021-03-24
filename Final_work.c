@@ -1,9 +1,9 @@
 ///Contact Management System///
 
-//1. Request the Admin username and password(string of at least 8 characters)
-//2. Be able to change username and password
-//3. Add users to the CMS when logged in as admin
-//4. Remove users
+//1. Request the Admin username and password(string of at least 8 characters) (Marlon)
+//2. Be able to change username and password (Erin)
+//3. Add users to the CMS when logged in as admin (Kenneth)
+//4. Remove users (Kenneth) 
 //5. Admin's should be able to
 	//a. add info to include first, last, cell #, work #, fax #, email, gender, age
 	//b. remove records.
